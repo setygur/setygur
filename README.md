@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on:
-PacMan game in Java using swing
-Picture encoder in C++
-- 🌱 I’m currently learning:
-Java, C++, Rust, SQL
+###- 🔭 I’m currently working on:
+###PacMan game in Java using swing
+###Picture encoder in C++
+###- 🌱 I’m currently learning:
+###Java, C++, Rust, SQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
